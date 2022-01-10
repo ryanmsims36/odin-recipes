@@ -1,0 +1,40 @@
+.Title-Blocks{
+    background-color: yellowgreen;
+    font-family: 'Times New Roman';
+}
+
+#Title-List{
+    background-color: rgb(243, 176, 31);
+    font-family: 'Times New Roman';
+    width: 500px;
+}
+
+.Title-Blocks.Title-Page{
+
+    width: 500px;
+}
+
+.Title-Blocks.PBnJ{
+
+    width: 500px;
+}
+
+.Description{
+    background-color: rgb(243, 176, 31);
+    font-family: 'Times New Roman';
+    width: 500px;
+}
+
+.Description.Ingredients{
+    background-color: rgb(243, 116, 31);
+}
+
+.Title-Blocks.Cereal{
+
+    width: 500px;
+}
+
+.Title-Blocks.Quesadilla{
+
+    width: 500px;
+}

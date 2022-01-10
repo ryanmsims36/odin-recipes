@@ -1,0 +1,1 @@
+This is my first odin project where I am using the skills I learned about hmtl to create a recipe website. I will show that I have learned to create an index page, create and modify text, include images, and link to other pages. 
